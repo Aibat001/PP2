@@ -1,0 +1,28 @@
+{
+    "data": [
+      {
+        "DN": "topology/pod-1/node-201/sys/phys-[eth1/33]",
+        "Description" : "",
+        "admin_state": "up",
+        "oper_state": "up",
+        "Speed": "inherit",
+        "MTU": "9150"
+      },
+      {
+        "DN": "topology/pod-1/node-201/sys/phys-[eth1/34]",
+        "Description": "",
+        "admin_state": "up",
+        "oper_state": "up",
+        "Speed": "inherit",
+        "MTU": "9150"
+      },
+      {
+        "DN": "topology/pod-1/node-201/sys/phys-[eth1/35]",
+        "Description": "",
+        "admin_state": "up",
+        "oper_state": "up",
+        "Speed": "inherit",
+        "MTU": "9150"
+      }
+    ]
+}

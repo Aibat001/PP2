@@ -1,0 +1,1 @@
+print(list(filter(lambda x: x % 2 != 0 and x % 3 != 0 or x == 3 or x == 2, [1, 49, 2, 23, 101, 6, 18, 23])))
